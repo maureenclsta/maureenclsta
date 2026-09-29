@@ -64,8 +64,8 @@ Short description of the project, technologies used, and what it does.
 
 ### Connect With Me
 
-* **LinkedIn:** *(coming soon)*
-* **Instagram:** *(coming soon)*
+* **LinkedIn:** [linkedin.com/in/maureencalistas](https://www.linkedin.com/in/maureencalistas)
+* **Instagram:** [@maureenclsta](https://www.instagram.com/maureenclsta/)
 * **Email:** [maureenclsta437@gmail.com](mailto:maureenclsta437@gmail.com)
 
 ---
