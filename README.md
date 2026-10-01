@@ -78,30 +78,6 @@ An NLP-based application that classifies GitHub issue reports as **Critical** or
 
 ---
 
-#### ✋ AirBlocks — Hand Gesture Tracking Puzzle Game
-
-A computer vision puzzle game controlled through hand gestures using a webcam. Hand landmarks are detected with MediaPipe to enable gesture-based interaction with the game.
-
-**Tech:** Python, OpenCV, MediaPipe, Flask, HTML, CSS, JavaScript
-
----
-
-#### 🌍 Onoma Trace — Name Origin Classification
-
-A machine learning application that predicts the possible country origin of a romanized name. The system uses character-level TF-IDF features and classical machine learning models across a dataset covering more than 100 countries.
-
-**Tech:** Python, Scikit-learn, TF-IDF, Logistic Regression, LinearSVC
-
----
-
-#### ♻️ Waste Type Detection
-
-A computer vision application that detects and classifies waste through images using a YOLOv8-based object detection model. The application provides an interactive interface for identifying different types of waste.
-
-**Tech:** Python, YOLOv8, Streamlit, OpenCV, Streamlit-WebRTC
-
----
-
 #### 🎓 Schola — Scholarship Management System
 
 A full-stack web-based scholarship management system that centralizes scholarship discovery, applications, document submission, and application tracking. Students and administrators have separate workflows for managing the scholarship process.
